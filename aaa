@@ -1,0 +1,15 @@
+r3e.getVehicleInfo({
+    'slotId': 0
+}, function(vehicleInfo) {
+    /*
+    // vehicleInfo
+    {
+        "slotId": "int",
+        "rpm": "int",
+        "gear": "int",
+        "speed": "int", //km per h
+        "drsLeft": "int",
+        "drsEnabled": "bool"
+    }
+    */
+});
